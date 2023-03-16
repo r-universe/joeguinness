@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "GpGp"]
+	path = GpGp
+	url = https://github.com/joeguinness/gpgp
+	shallow = true
+	registered = true
